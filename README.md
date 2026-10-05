@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚨 RedInc. Security
+# 🚨 RedInc Security Laboratory
 
 ### `Mr. Red Inc. Security`
 
